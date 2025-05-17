@@ -30,7 +30,7 @@ This project is a simple Java automation test that interacts with a **MySQL data
 
 ---
 
-#🧼 Clean and Organized Code
+## 🧼 Clean and Organized Code
 
 -Each operation is split into its own method (Insert, Update, Read).
 
@@ -40,7 +40,7 @@ This project is a simple Java automation test that interacts with a **MySQL data
 
 ---
 
-#🧠 Final Thoughts
+## 🧠 Final Thoughts
 -This is a great starting point for anyone looking to:
 
 -Learn Java database integration
