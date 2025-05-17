@@ -32,19 +32,19 @@ This project is a simple Java automation test that interacts with a **MySQL data
 
 ## 🧼 Clean and Organized Code
 
--Each operation is split into its own method (Insert, Update, Read).
+- Each operation is split into its own method (Insert, Update, Read).
 
--Runs automatically using @BeforeTest and @Test.
+- Runs automatically using @BeforeTest and @Test.
 
--Ready for scaling into a real-world QA automation framework.
+- Ready for scaling into a real-world QA automation framework.
 
 ---
 
 ## 🧠 Final Thoughts
--This is a great starting point for anyone looking to:
+- This is a great starting point for anyone looking to:
 
--Learn Java database integration
+- Learn Java database integration
 
--Practice test automation
+- Practice test automation
 
--Automate web form submissions
+- Automate web form submissions
