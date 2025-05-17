@@ -47,4 +47,4 @@ This project is a simple Java automation test that interacts with a **MySQL data
 
 -Practice test automation
 
-Automate web form submissions
+-Automate web form submissions
